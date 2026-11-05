@@ -1,2 +1,2 @@
-# Tya-app
-Tya - Women's Health App
+# Simply Her-app
+Simply Her - Women's Health App
